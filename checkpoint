@@ -1,2 +1,2 @@
-model_checkpoint_path: "lenet-traffic-signs"
-all_model_checkpoint_paths: "lenet-traffic-signs"
+model_checkpoint_path: "/Users/Akshay/projects/carnd/CarND-Traffic-Sign-Classifier-Project/trained_model.ckpt"
+all_model_checkpoint_paths: "/Users/Akshay/projects/carnd/CarND-Traffic-Sign-Classifier-Project/trained_model.ckpt"
